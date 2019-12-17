@@ -1,0 +1,7 @@
+C:\Users\oishi\source\repos\DemoRESTServiceCRUD\DemoRESTServiceCRUD\DemoRESTServiceCRUD\obj\Debug\DemoRESTServiceCRUD.csprojAssemblyReference.cache
+C:\Users\oishi\source\repos\DemoRESTServiceCRUD\DemoRESTServiceCRUD\DemoRESTServiceCRUD\obj\Debug\DemoRESTServiceCRUD.csproj.CoreCompileInputs.cache
+C:\Users\oishi\source\repos\DemoRESTServiceCRUD\DemoRESTServiceCRUD\DemoRESTServiceCRUD\bin\DemoRESTServiceCRUD.dll.config
+C:\Users\oishi\source\repos\DemoRESTServiceCRUD\DemoRESTServiceCRUD\DemoRESTServiceCRUD\bin\DemoRESTServiceCRUD.dll
+C:\Users\oishi\source\repos\DemoRESTServiceCRUD\DemoRESTServiceCRUD\DemoRESTServiceCRUD\bin\DemoRESTServiceCRUD.pdb
+C:\Users\oishi\source\repos\DemoRESTServiceCRUD\DemoRESTServiceCRUD\DemoRESTServiceCRUD\obj\Debug\DemoRESTServiceCRUD.dll
+C:\Users\oishi\source\repos\DemoRESTServiceCRUD\DemoRESTServiceCRUD\DemoRESTServiceCRUD\obj\Debug\DemoRESTServiceCRUD.pdb
